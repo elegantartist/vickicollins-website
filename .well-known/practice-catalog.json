@@ -1,0 +1,192 @@
+{
+  "@context": "https://schema.org",
+  "@type": "MedicalBusiness",
+  "generated": "2026-08-09",
+  "source": "practice.json",
+  "name": "Vicki Collins Acupuncture & Chinese Herbal Medicine",
+  "url": "https://vickicollins.com.au",
+  "telephone": "+61422617299",
+  "email": "hello@vickicollins.com.au",
+  "address": {
+    "@type": "PostalAddress",
+    "streetAddress": "33 David St",
+    "addressLocality": "Machans Beach",
+    "addressRegion": "QLD",
+    "postalCode": "4878",
+    "addressCountry": "AU"
+  },
+  "geo": {
+    "@type": "GeoCoordinates",
+    "latitude": -16.8534147,
+    "longitude": 145.747004
+  },
+  "openingHoursSpecification": [
+    {
+      "@type": "OpeningHoursSpecification",
+      "dayOfWeek": [
+        "Tuesday",
+        "Wednesday",
+        "Thursday",
+        "Friday",
+        "Saturday"
+      ],
+      "opens": "08:00",
+      "closes": "18:00"
+    }
+  ],
+  "areaServed": [
+    {
+      "@type": "City",
+      "name": "Cairns"
+    },
+    {
+      "@type": "Place",
+      "name": "Machans Beach"
+    },
+    {
+      "@type": "Place",
+      "name": "Holloways Beach"
+    },
+    {
+      "@type": "Place",
+      "name": "Yorkeys Knob"
+    },
+    {
+      "@type": "Place",
+      "name": "Trinity Beach"
+    },
+    {
+      "@type": "Place",
+      "name": "Smithfield"
+    },
+    {
+      "@type": "Place",
+      "name": "Edge Hill"
+    },
+    {
+      "@type": "Place",
+      "name": "Cairns City"
+    },
+    {
+      "@type": "Place",
+      "name": "Manunda"
+    },
+    {
+      "@type": "Place",
+      "name": "Westcourt"
+    },
+    {
+      "@type": "Place",
+      "name": "Aeroglen"
+    },
+    {
+      "@type": "Place",
+      "name": "Stratford"
+    },
+    {
+      "@type": "Place",
+      "name": "Freshwater"
+    },
+    {
+      "@type": "Place",
+      "name": "Redlynch"
+    },
+    {
+      "@type": "Place",
+      "name": "Kewarra Beach"
+    },
+    {
+      "@type": "Place",
+      "name": "Clifton Beach"
+    },
+    {
+      "@type": "Place",
+      "name": "Palm Cove"
+    }
+  ],
+  "practitioner": {
+    "@type": "Person",
+    "name": "Vicki Collins",
+    "jobTitle": "Registered Acupuncturist & Chinese Herbal Medicine Practitioner",
+    "yearsOfExperience": "over 20 years",
+    "hasCredential": "Bachelor of Health Science (Acupuncture), distinction, 2003",
+    "registeredWith": "Australian Health Practitioner Regulation Agency (AHPRA)",
+    "sameAs": [
+      "https://www.ahpra.gov.au/registration/registers-of-practitioners.aspx",
+      "https://www.facebook.com/Vicki-Collins-906060886146037/",
+      "https://www.linkedin.com/in/vicki-collins-b83b03a0"
+    ]
+  },
+  "knowsAbout": [
+    "Acupuncture",
+    "Chinese Herbal Medicine",
+    "Fertility acupuncture",
+    "IVF support",
+    "IUI support",
+    "Women's health",
+    "Menstrual health",
+    "Perimenopause",
+    "Menopause",
+    "Pregnancy support",
+    "Pre-birth acupuncture",
+    "Moxibustion",
+    "Cupping",
+    "Electro acupuncture",
+    "Chinese medicine diet therapy"
+  ],
+  "hasOfferCatalog": {
+    "@type": "OfferCatalog",
+    "name": "Services",
+    "itemListElement": [
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Fertility Acupuncture & IVF/IUI Cycle Support",
+          "serviceType": "Fertility acupuncture",
+          "description": "Acupuncture sessions timed around natural conception attempts or an IVF/IUI cycle, provided alongside your medical fertility treatment.",
+          "url": "https://vickicollins.com.au/fertility-treatments/"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Women's Health Acupuncture",
+          "serviceType": "Women's health acupuncture",
+          "description": "Acupuncture and Chinese herbal medicine for menstrual health, pregnancy support and the transition through menopause.",
+          "url": "https://vickicollins.com.au/womens-health/"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Chinese Herbal Medicine",
+          "serviceType": "Chinese herbal medicine",
+          "description": "Individually formulated powdered herbal formulas prescribed after a Chinese medicine consultation.",
+          "url": "https://vickicollins.com.au/treatments/"
+        }
+      },
+      {
+        "@type": "Offer",
+        "itemOffered": {
+          "@type": "Service",
+          "name": "Acupuncture",
+          "serviceType": "Acupuncture",
+          "description": "Treatment using fine sterilised single-use needles, which may be combined with moxibustion, cupping or electro acupuncture.",
+          "url": "https://vickicollins.com.au/treatments/"
+        }
+      }
+    ]
+  },
+  "priceSpecification": {
+    "consultationAUD": 95,
+    "herbalConsultationAUD": 80,
+    "herbalConsultationNote": "plus the cost of the herbs",
+    "healthFundRebates": true
+  },
+  "compliance": {
+    "note": "AHPRA-registered practitioner. No testimonials or efficacy claims are published in this catalog; service descriptions state what a treatment is, not what it cures."
+  }
+}

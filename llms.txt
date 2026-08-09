@@ -1,64 +1,42 @@
 # Vicki Collins Acupuncture & Chinese Herbal Medicine
 
-> Registered acupuncturist and Chinese herbal medicine practitioner in Machans
-> Beach, Cairns, Queensland, Australia. Over 20 years' experience, specialising
-> in fertility and women's health.
+> Registered Acupuncturist & Chinese Herbal Medicine Practitioner in Machans Beach, Cairns, Queensland, Australia.
+> Over 20 years' experience, specialising in fertility and women's health.
+
+Generated 2026-08-09 from practice.json — do not hand-edit.
 
 ## Practitioner
 
 Vicki Collins — Bachelor of Health Science (Acupuncture), distinction, 2003.
-AHPRA registered for Chinese Herbal Medicine & Acupuncture. Member of the
-Australian Acupuncture Association (AACMA) and registered with the Chinese
-Medical Board of Australia (CMBA)/AHPRA.
+Registered with Australian Health Practitioner Regulation Agency (AHPRA): https://www.ahpra.gov.au/registration/registers-of-practitioners.aspx
+Member: Australian Acupuncture and Chinese Medicine Association (AACMA); Chinese Medicine Board of Australia (CMBA)
 
 ## Services
 
-- Acupuncture (fine sterilised needles; may be combined with other techniques)
-- Fertility acupuncture and IVF/IUI cycle support
-- Women's health: menstrual health, pregnancy support, menopause
-- Chinese herbal medicine (individually formulated powdered herbal formulas)
-- Moxibustion (warming therapy using mugwort)
-- Cupping
-- Therapeutic massage
-- Diet therapy
-- Electro acupuncture
+- Fertility Acupuncture & IVF/IUI Cycle Support: Acupuncture sessions timed around natural conception attempts or an IVF/IUI cycle, provided alongside your medical fertility treatment.
+- Women's Health Acupuncture: Acupuncture and Chinese herbal medicine for menstrual health, pregnancy support and the transition through menopause.
+- Chinese Herbal Medicine: Individually formulated powdered herbal formulas prescribed after a Chinese medicine consultation.
+- Acupuncture: Treatment using fine sterilised single-use needles, which may be combined with moxibustion, cupping or electro acupuncture.
 
-## Pricing (as listed on the site)
+## Pricing
 
-Initial consultation $80; subsequent treatments $70–$80.
-Chinese Herbal consultation $50 (herb costs extra).
-Listed practitioner for all major Australian health funds (Chinese herbs not claimable).
+All consultations $95.
+Chinese herbal consultation $80 plus the cost of the herbs.
+Listed practitioner for major Australian health funds.
 
 ## Location & hours
 
-33 David St, Machans Beach, Cairns QLD 4878, Australia
-Tuesday–Saturday, 8:00am–6:00pm
+33 David St, Machans Beach, QLD 4878, Australia
+Tuesday–Saturday, 08:00–18:00
+Serving Machans Beach and the wider Cairns area.
 
 ## Booking
 
-Phone: +61 422 617 299
+Phone: 0422 617 299
 Email: hello@vickicollins.com.au
-
-## Pages
-
-- [Home](https://vickicollins.com.au/): overview of the practice and specialties
-- [About Vicki](https://vickicollins.com.au/about-vicki-collins-quality-acupuncture/): qualifications, history and registrations
-- [How Can I Help?](https://vickicollins.com.au/how-can-i-help/): integrative approach; women's health, pain, anxiety, insomnia
-- [Fertility Treatments](https://vickicollins.com.au/fertility-treatments/): fertility, IVF support, acupuncture and IVF research
-- [Women's Health](https://vickicollins.com.au/womens-health/): menstrual health, pregnancy support, menopause
-- [Treatments](https://vickicollins.com.au/treatments/): acupuncture, moxibustion, cupping, massage, diet therapy, electro acupuncture, Chinese herbal medicine
-- [References & Further Reading](https://vickicollins.com.au/references-2/): research citations, books and helpful links
-- [Blog & Articles](https://vickicollins.com.au/blog/): women's health and wellness articles
-- [FAQ](https://vickicollins.com.au/frequently-asked-questions/): treatment experience, costs, health funds, hours, safety
-- [Contact](https://vickicollins.com.au/contact/): address, phone, email, opening hours
-- [Privacy Policy](https://vickicollins.com.au/privacy-policy/)
-- [Blog: The 4 Phases of Your Period](https://vickicollins.com.au/understanding-the-4-phases-of-your-period-and-what-to-do-in-each/)
-- [Blog: Good Health Begins With Gut Health](https://vickicollins.com.au/good-health-begins-with-gut-health/)
-- [Blog: A Natural Transition into Menopause](https://vickicollins.com.au/how-to-make-a-natural-transition-into-menopause/)
 
 ## Notes
 
-Content is general information, not medical advice. As an AHPRA member the
-practitioner notes that evidence for some acupuncture applications is
-described as unclear; research references are provided on the References page.
-Last updated: 2026-08-08.
+General information, not medical advice. As an AHPRA-registered practitioner,
+efficacy claims are limited to what current evidence supports; research
+references are provided on the site's References page.
