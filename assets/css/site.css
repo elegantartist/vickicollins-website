@@ -237,7 +237,23 @@ h6 { font-size: 14px; line-height: 1.3em; }
 }
 .btn-outline-green:hover { background: var(--green); color: var(--white); }
 
-/* big call/email buttons that replace the contact form */
+/* contact message form (Formspree-backed; rendered only once FORMSPREE_ENDPOINT is set) */
+.mk-contact-form { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin: 0 0 32px; }
+.mk-form-row { grid-column: 1 / -1; }
+.mk-form-row.half { grid-column: auto; }
+.mk-contact-form input[type=text],
+.mk-contact-form input[type=email],
+.mk-contact-form textarea {
+  width: 100%; padding: 14px 16px; font-family: inherit; font-size: 15px; color: var(--text);
+  background: transparent; border: 2px solid var(--green); border-radius: 3px;
+}
+.mk-contact-form textarea { resize: vertical; }
+.mk-contact-form input:focus, .mk-contact-form textarea:focus {
+  outline: none; border-color: var(--brand-dark);
+}
+.mk-contact-form button { border: 0; cursor: pointer; font-family: inherit; }
+
+/* big call/email buttons alongside the contact form */
 .contact-actions { display: flex; gap: 18px; flex-wrap: wrap; }
 .contact-actions .btn-pill { font-size: 15px; padding: 18px 34px; }
 .contact-actions svg { width: 17px; height: 17px; fill: currentColor; vertical-align: -3px; }
@@ -388,6 +404,7 @@ ul.checks li::before {
   .contact-layout { grid-template-columns: 1fr; }
 }
 @media (max-width: 760px) {
+  .mk-form-row.half { grid-column: 1 / -1; }
   .site-header .grid { min-height: 78px; }
   .logo img { width: 240px; }
   .nav-toggle { display: block; }
